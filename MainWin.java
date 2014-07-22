@@ -1,7 +1,7 @@
 // Name: AtomicFiler
 // Desc: Creates a text file with student's name, email, and class period.
 // Date: 09/04/13
-// Author: Johnny Pacific of AtomicallyCorrect Studios
+// Author: John Pacific
 
 package atomicfiler;
 
